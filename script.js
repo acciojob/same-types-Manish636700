@@ -11,4 +11,4 @@ if (!isNaN(value1) && value1.trim() !== "") value1 = Number(value1);
 if (!isNaN(value2) && value2.trim() !== "") value2 = Number(value2);
 
 alert(isSameType(value1, value2));
-console.log(isSameType("3", 3)); // false
+
